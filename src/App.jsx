@@ -1,12 +1,12 @@
 
 import './App.css'
-
+import NavMenu from './Nav/nav'
 function App() {
 
 
   return (
     <>
-      <h2>Pricing Option</h2>
+    <NavMenu></NavMenu>
     </>
   )
 }
